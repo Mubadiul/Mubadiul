@@ -14,7 +14,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-## 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubadiulfitriyani)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubadiulfitriyani391@gmail.com)
+## 📊 Contacts:
+- **LinkedIn:** [@mubadiulfitriyani](www.linkedin.com/in/mubadiulfitriyani)
+- **Email:** [mubadiulfitriyani391@gmail.com](mubadiulfitriyani391@gmail.com)
 
