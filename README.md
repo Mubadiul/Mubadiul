@@ -1,4 +1,4 @@
-
+Hi, I'm **Mubadi'ul Fitriyani**, a Data Analyst who enjoys working with data to uncover useful insights. I have an interest in solving problems through data-driven approaches and appreciate how data can support better decision-making. The projects below reflect the experience and skills I gained during my time in college.
 
 ## 💻 Tech Stack:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -13,8 +13,4 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-
-## 📊 Contacts:
-- **LinkedIn:** [@mubadiulfitriyani](www.linkedin.com/in/mubadiulfitriyani)
-- **Email:** [mubadiulfitriyani391@gmail.com](mubadiulfitriyani391@gmail.com)
 
